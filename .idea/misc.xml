@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/activity_main.xml" value="0.3344418052256532" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/activity_pokedex.xml" value="0.15433946130825138" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/activity_pokemon_detail.xml" value="0.18802083333333333" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/card_pokemon_holder.xml" value="0.36666666666666664" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/card_pokemon_stat.xml" value="0.15433946130825138" />
+        <entry key="..\:/Wawancara/PTSuaraPokemon/app/src/main/res/layout/card_stat_holder.xml" value="0.3009833262077811" />
       </map>
     </option>
   </component>
